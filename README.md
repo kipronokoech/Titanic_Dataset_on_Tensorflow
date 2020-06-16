@@ -48,3 +48,24 @@ While there was some element of luck involved
  about the features in the dataset.
  
  ## Plots
+ (explanations are on the `visualization.ipynb`)
+ <table style="width:100%">
+  <tr>
+    <th><img src="output/survival.png" width=400></th>
+    <th><img src="output/age.png" width=400></th>
+  </tr>
+  </table>
+  
+  <table style="width:100%">
+  <tr>
+    <th><img src="output/survival_class.png" width=400></th>
+    <th><img src="output/survival_class_factorplot.png" width=400></th>
+  </tr>
+  </table>
+  
+  <table style="width:100%">
+  <tr>
+    <th><img src="output/survival_gender.png" width=400></th>
+  </tr>
+  </table>
+
