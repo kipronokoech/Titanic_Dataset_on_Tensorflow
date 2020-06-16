@@ -1,2 +1,5 @@
 titanicvenv
 .ipynb_checkpoints
+.idea
+test.csv
+train.csv
